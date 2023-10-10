@@ -1,2 +1,2 @@
-# Restourant_Home_Page
-Restourant home page template
+# Restaurant_Home_Page
+Restaurant home page template
